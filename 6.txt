@@ -1,0 +1,3 @@
+Day 6's challenge was on a web playground, so without building a much bigger app than the challenge was, I am unable to demonstrate the code for the challenge.
+
+A summary of what the challenge was: Given a maze and a random starting point, write a series of steps to take to reach the end of the maze. The solution was given to us in the instructions (follow the right wall) so the challenge was essentially to just put the steps in the right order.
